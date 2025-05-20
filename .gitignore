@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Colab and Jupyter artifacts
+.ipynb_checkpoints/
+.datalab/
+.drivefs/
+
+# Dataset folders and temporary files
+pokemon_dataset/
+*.zip
+*.tar.gz
+*.rar
+
+# Logs and model checkpoints
+*.log
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Generated images and media (optional)
+outputs/*.png
+outputs/*.gif
