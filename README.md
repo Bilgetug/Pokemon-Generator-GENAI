@@ -21,3 +21,6 @@ Generative Adversarial Network trained to generate new Pokémon images using PyT
 This project uses a Pokémon image dataset from Kaggle:
 🔗 [Pokémon Image Dataset on Kaggle](https://www.kaggle.com/datasets/hlrhegemony/pokemon-image-dataset/data)
 *Note: The dataset is used strictly for educational and non-commercial purposes.*
+
+## Final Training GIF  
+![Training Progress](outputs/pokemon_training(1).gif)
