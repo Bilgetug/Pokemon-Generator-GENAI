@@ -23,4 +23,6 @@ This project uses a Pokémon image dataset from Kaggle:
 *Note: The dataset is used strictly for educational and non-commercial purposes.*
 
 ## Final Training GIF  
-![Training Progress](https://github.com/Bilgetug/Pokemon-Generator-GENAI/blob/main/outputs/pokemon_training.gif)
+<p align="center">
+  <img src="outputs/pokemon_training.gif" width="400"/>
+</p>
